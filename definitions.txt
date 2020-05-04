@@ -1,0 +1,74 @@
+medication: (medicine) something that treats or prevents or alleviates the symptoms of disease
+
+fever: a rise in the temperature of the body; frequently a symptom of infection
+
+vein: a blood vessel that carries blood from the capillaries toward the heart
+
+severe: intensely or extremely bad or unpleasant in degree or quality
+
+pregnancy: the state of being pregnant; the period from conception to birth when a woman carries a developing fetus in her uterus
+
+significant: important in effect or meaning
+
+clear: the state of being free of suspicion
+
+generic: a wine that is a blend of several varieties of grapes with no one grape predominating; a wine that does not carry the name of any specific grape
+
+developing: processing a photosensitive material in order to make an image visible
+
+use: the act of using
+
+disease: an impairment of health or a condition of abnormal functioning
+
+effective: producing or capable of producing an intended result or having a striking effect; -LewisMumford
+
+failure: an act that fails
+
+pain: a symptom of some physical hurt or disorder
+
+surgery: the branch of medical science that treats disease or injury by operative procedures
+
+mouth: the opening through which food is taken in and vocalizations emerge
+
+adult: a fully developed person from maturity onward
+
+relief: the feeling that comes when something burdensome is removed or reduced
+
+skin: a natural protective body covering and site of the sense of touch
+
+cold: a mild viral infection involving the nose and respiratory passages (but not the lungs)
+
+opioid: sorry, the definition of this word is not currently available.
+
+safe: strongbox where valuables can be safely kept
+
+activity: any specific behavior
+
+maximum: the largest possible quantity
+
+acetaminophen: an analgesic for mild pain but not for inflammation; also used as an antipyretic; (Datril, Tylenol, Panadol, Phenaphen, Tempra, and Anacin III are trademarks of brands of acetaminophen tablets)
+
+liver: large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of protein and carbohydrate and fat; synthesizes substances involved in the clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks down worn-out erythrocytes
+
+cancer: any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream
+
+dose: a measured portion of medicine taken at any one time
+
+many: a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number
+
+mixed: mix together different elements
+
+available: obtainable or accessible and ready for use or service
+
+toxicity: the degree to which something is poisonous
+
+analgesic: a medicine used to relieve pain
+
+daily: a newspaper that is published every day
+
+combination: a collection of things that have been combined; an assemblage of separate parts or qualities
+
+used: put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+
+injection: the forceful insertion of a substance under pressure
+

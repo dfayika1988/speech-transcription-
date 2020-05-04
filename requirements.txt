@@ -1,0 +1,4 @@
+textblob==0.15.3
+spacy==2.1.4
+googletrans==2.4.0
+pycrypto==2.6.1
